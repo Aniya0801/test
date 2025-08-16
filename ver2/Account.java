@@ -2,6 +2,8 @@ package ver2;
 
 public class Account {
 	
+// New Comment for balance
+
 	private double balance;
 	private String name;
 	
